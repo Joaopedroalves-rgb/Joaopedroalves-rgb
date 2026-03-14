@@ -10,6 +10,16 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
+# 👨‍💻 João - Desenvolvedor em formação
+
+🐍 Python  
+🌐 HTML | CSS | JavaScript  
+
+<p align="center">
+  <img src="GIF_AQUI" width="400">
+</p>
+
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
