@@ -14,3 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </p>
+
+![snake gif](https://github.com/joaopedroalves-rgb/joaopedroalves-rgb/blob/output/github-contribution-grid-snake.svg)
+
