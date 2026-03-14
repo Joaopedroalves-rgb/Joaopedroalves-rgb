@@ -3,9 +3,6 @@
 🐍 Python  
 🌐 HTML | CSS | JavaScript  
 
-<p align="center">
-  <img src="GIF_AQUI" width="400">
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
