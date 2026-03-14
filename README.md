@@ -16,6 +16,3 @@
 </p>
 
 ![snake gif](https://github.com/joaopedroalves-rgb/joaopedroalves-rgb/blob/output/github-contribution-grid-snake.svg)
-
-.github/workflows/snake.yml
-
