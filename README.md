@@ -1,4 +1,4 @@
-# 👨‍💻 João - Desenvolvedor em formação
+# 👨‍💻 João - developer
 
 🐍 Python  
 🌐 HTML | CSS | JavaScript  
